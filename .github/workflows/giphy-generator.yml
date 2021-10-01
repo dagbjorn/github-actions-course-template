@@ -10,7 +10,7 @@ on:
 
 jobs:
   giphy-generator:
-    runs-on: ubuntu-latest:
+    runs-on: ubuntu-latest
 
     steps:
       # https://github.com/marketplace/actions/giphy-generator
